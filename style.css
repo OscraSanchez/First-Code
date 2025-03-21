@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    font-family: "Comfortaa", sans-serif;
+}
+.go {
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.gogo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    font-size: 60px;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.gogogo {
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-62%, -40%);
+    font-size: 40px;
+}
+.Proy {
+    text-align: center;
+}
+.hub {
+    width: 60%;
+}
+.Pri{
+    margin-left: 50px;
+    margin-right: 50px;
+    border-spacing: 10px 75px;
+}
